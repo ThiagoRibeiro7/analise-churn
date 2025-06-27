@@ -1,4 +1,4 @@
-# Previsão de Churn em Empresa de TeleCom
+# Previsão de Churn em Empresa de Telecom
 
 - Descrição do Problema: A empresa em que trabalho atua no setor de telecomunicações e oferece serviços como internet e telefone. Nos últimos anos, identificamos um índice de churn (evasão de clientes) superior a 26%, o que representa uma perda financeira significativa — somando-se a milhões de reais por ano.
 
