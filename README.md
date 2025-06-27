@@ -27,3 +27,5 @@ Com algumas linhas de código, consegui plotar gráficos que fazem uma relação
  - Tem alguma coisa no nosso serviço de Fibra que tá fazendo os clientes cancelarem
     - Agir sobre a fibra
 - Clientes no boleto tem MUITO mais chance de cancelar, então temos que fazer alguma ação para eles irem para as outras formas de pagamento
+
+Observação: os dados analisados estão na pasta Dados / o formato do arquivo está em .py entretanto rodei o código no VsCode no formato .ipynb / tem um passo a passo do que foi feito no próprio arquivo.
